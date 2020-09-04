@@ -4,9 +4,8 @@
 
 
 ## Citation
-The use of this software is RESTRICTED to **non-commercial research and educational purposes**.
 ```
-@inproceedings{DBLP:conf/iconip/BayramliAQL19,
+@inproceedings{Auto-Classifier,
     author={Vasco Lopes and Lu\'is A. Alexandre},
 
   title     = {Auto-Classifier: A Robust Defect Detector Based on an AutoML Head},
